@@ -1,0 +1,5 @@
+{
+  "name": "OKX Trader Pro",
+  "description": "A professional cryptocurrency asset monitor and trading terminal. Features real-time asset tracking, portfolio visualization, and a streamlined interface for spot trading. Includes a simulation mode for testing without API keys.",
+  "requestFramePermissions": []
+}
